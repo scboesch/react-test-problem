@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "example-enzyme",
+  "dependencies": {
+    "enzyme": "3.8.0",
+    "enzyme-adapter-react-16": "1.7.1",
+    "react": "16.4.1",
+    "react-dom": "16.4.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "babel-jest": "*",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*",
+    "enzyme": "*",
+    "enzyme-adapter-react-16": "*",
+    "jest": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "description": null
+}
